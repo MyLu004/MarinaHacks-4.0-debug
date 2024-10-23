@@ -5,23 +5,23 @@
 export const Prize = [
     {
         name : "kodak Printomatic Instant Camera",
-        PrizeImg : "/images/prizeImg/Camera.png",
+        PrizeImg : "/images/bubble.png",
         
     },
     {
         name : "SONY WH-1000XM5 Wireless Noise",
-        PrizeImg : "/images/prizeImg/Headphone.png"
+        PrizeImg : "/images/bubble.png"
     },
     {
         name : "Logitech Mouse MX Master 3s",
-        PrizeImg : "/images/prizeImg/LogitechMouse.png"
+        PrizeImg : "/images/bubble.png",
     },
     {
         name : "Nintendo Switch Life",
-        PrizeImg : "/images/prizeImg/Nintendo.png"
+        PrizeImg : "/images/bubble.png",
     },
     {
         name : "Sceptre E205W 20 Monitor",
-        PrizeImg : "/images/prizeImg/SpectreMonitor.png"
+        PrizeImg : "/images/bubble.png",
     }
 ]
